@@ -1,0 +1,26 @@
+﻿  Ball.cpp
+  Game.cpp
+C:\C++ projects\Pong Game OOP\Game.cpp(5,37): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\C++ projects\Pong Game OOP\Game.cpp(6,95): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\C++ projects\Pong Game OOP\Game.cpp(7,49): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+C:\C++ projects\Pong Game OOP\Game.cpp(7,25): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Main.cpp
+  Paddle.cpp
+  Generating Code...
+  Pong Game OOP.vcxproj -> C:\C++ projects\Pong Game OOP\Debug\Pong Game OOP.exe
